@@ -78,7 +78,8 @@ plt.show()
 
 ![Screenshot 2025-05-08 051001](https://github.com/user-attachments/assets/18bbae04-f2a8-4bee-bc4a-cd9d512235b6)
 
-![Screenshot 2025-05-08 051006](https://github.com/user-attachments/assets/e9250bc5-dd34-4995-8def-8db3d131cfbf)
+
+![Screenshot 2025-05-08 051456](https://github.com/user-attachments/assets/6430f09e-f819-4859-aab7-9647561a7fc9)
 
 
 
